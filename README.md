@@ -1,1 +1,3 @@
-this is shell project
+#!/bin/bash
+pwd
+

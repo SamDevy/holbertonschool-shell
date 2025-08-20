@@ -1,2 +1,3 @@
-this is shell
+#!/bin/bash
+pwd
 
